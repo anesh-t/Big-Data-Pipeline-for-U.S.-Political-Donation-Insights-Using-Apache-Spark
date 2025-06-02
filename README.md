@@ -88,8 +88,3 @@ This project demonstrates the power of big data tools like Apache Spark in unrav
 **Anesh Thangaraj**  
 Master’s Student in Business Analytics, George Washington University  
 [LinkedIn](https://www.linkedin.com/in/anesh-t/) | [GitHub](https://github.com/anesh-t)
-
----
-
-## 📌 License
-This project is under the MIT License. See [LICENSE](./LICENSE) for more details.
